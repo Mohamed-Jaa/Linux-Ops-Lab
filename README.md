@@ -1,7 +1,7 @@
 # Technical Report: Automated Backup System for Web Servers
 **Project Reference:** Task_003  
 **Target System:** Ubuntu 24.04 LTS  
-**Author:** [Your Name/GitHub Username]
+**Author:**  Daniel_wix
 
 ---
 
