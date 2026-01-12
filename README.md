@@ -41,7 +41,7 @@ This lab covers the following domains of System Administration:
 The project is organized into modular "Task Folders" to keep the workspace clean and navigable:
 
 * **`Task_XXX_Name/`**: Contains the solution script and a detailed technical report.
-* **`docs/`**: (Optional) General documentation and cheat sheets.
+* **`docs/`**: General documentation and cheat sheets.
 
 ---
 
