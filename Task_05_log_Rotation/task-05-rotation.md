@@ -38,8 +38,8 @@ The policy was manually triggered to verify the creation of the first compressed
 
 | Identified Issue | Technical Root Cause | Resolution |
 | :--- | :--- | :--- |
-| **Syntax Error: unknown option 'creat'** | Typographical error in the configuration directive. | Corrected to the standard `create` keyword. |
 | **Insecure Parent Directory** | Wide permissions on the parent log directory (Security restriction). | Implemented the `su` directive to define safe execution privileges. |
 | **Permission Denied** | Ownership conflicts during new file generation. | Synchronized ownership between the rotation service and the monitoring agent. |
 
 ---
+
