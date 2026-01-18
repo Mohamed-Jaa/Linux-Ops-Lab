@@ -1,10 +1,8 @@
----
 # Implementation Guide: Hardening & SSL Proxy Orchestration
 **Task ID:** #009
 **Status:** Completed ✅
 **Standard:** Production-Grade Security
 
----
 
 ## 1. Phase 1: Network Layer Hardening (Docker & UFW)
 The first step in securing the infrastructure was to eliminate direct external access to the backend services. We encountered a critical security bypass where Docker's default NAT rules overrode the system's `ufw` firewall.
