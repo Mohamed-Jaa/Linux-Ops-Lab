@@ -1,5 +1,0 @@
-certs/
-*.key
-*.crt
-.env
-.DS_Store
